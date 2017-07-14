@@ -9,7 +9,6 @@
 then the user will be prompted with a "insufficient funds" dialog and will be asked to select a product.
 
 ![Image of Failed Transaction]
-(https://cindygchen.github.io/Amazon/fail.png)
-
+(Amazon/pass.png)
 ![Image of Successful Transaction]
 (https://cindygchen.github.io/Amazon/pass.png)
